@@ -1,0 +1,42 @@
+/*Home Styles*/
+
+#home {
+	.bio-img {
+		text-align:center;
+		margin:0 auto;
+		margin-bottom:45px;
+		position:relative;
+		.leaf {
+			position:absolute;
+			top:205px;
+			left:-5px;
+		}
+	}
+
+	.content {
+		margin-top:30px;
+		.demo-video {
+			text-align:center;
+			margin-bottom:100px;
+		}
+	}
+
+
+	/*Media Queries*/
+
+	@media only screen and (max-width:1024px) {
+		
+		.bio-img {
+			.leaf {
+				top:205px;
+				left:13%; 
+			}
+		}
+	}
+	@media only screen and (max-width:640px) {
+		
+		.bio-img {
+			margin-top:50px;
+		}
+	}
+}
