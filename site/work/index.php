@@ -72,7 +72,7 @@
             <div class="large-8 columns full-height">
               <div class="main-content full-height">
                 <div class="contact-info show-for-medium-up">
-                  <p>843-816-2757</p>
+                  <p>843-816-2757</p> 
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                 </div>
                 <div class="content">
