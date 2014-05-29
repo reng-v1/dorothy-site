@@ -1,7 +1,7 @@
 /*Home Styles*/
 
 #home {
-	.bio-img {
+	/*.bio-img {
 		text-align:center;
 		margin:0 auto;
 		margin-bottom:45px;
@@ -11,13 +11,16 @@
 			top:205px;
 			left:-5px;
 		}
-	}
+	}*/
 
 	.content {
 		margin-top:30px;
 		.demo-video {
 			text-align:center;
-			margin-bottom:100px;
+			margin-bottom:50px;
+			img {
+  			width:100%;
+			}
 		}
 	}
 
@@ -32,11 +35,27 @@
 				left:13%; 
 			}
 		}
+		
+		.content {
+  		.demo-video {
+    		img {
+      		width:60%;
+    		}
+  		}
+		}
 	}
 	@media only screen and (max-width:640px) {
 		
 		.bio-img {
 			margin-top:50px;
+		}
+		
+		.content {
+  		.demo-video {
+    		img {
+      		width:initial;
+    		}
+  		}
 		}
 	}
 }
