@@ -114,6 +114,10 @@
                       <textarea class="long-textbox" name="comment" rows="7" cols="30"></textarea>
                     <input class="button" type="submit" value="Sumbit"/>
                   </form>
+                  <div class="bio-img">
+                    <img class="bio-photo" src="../img/bio-pic.jpg" alt="Dorothy Photo" />
+                    <img class="leaf hide-for-small-only" src="../img/bio-leaf.png" alt="Leaf Photo" />
+                  </div>
                 </div>
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
