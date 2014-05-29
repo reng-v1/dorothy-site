@@ -75,20 +75,20 @@
                   <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                 </div>
-                <div class="bio-img">
+                <!--<div class="bio-img">
                   <img class="bio-photo" src="../img/bio-pic.jpg" alt="Dorothy Photo" />
                   <img class="leaf hide-for-small-only" src="../img/bio-leaf.png" alt="Leaf Photo" />
-                </div>
+                </div>-->
                 <div class="content">
+                  <h3>Demo Reel</h3>
+                  <div class="demo-video">
+                    <a class="demo-link" href="../work/index.php"><img src="../img/demo-reel-placeholder.jpg" alt="Dorothy Photo" /></a>
+                  </div>
                   <h3>Biography</h3>
                   <p>I am filled with energy and passion to expand my creative horizons, and eager to tackle any challenges that come my way.
                    Using the latest software and skills learned from the Art Institute of Atlanta, I create both simple and complex 3D animations. 
                    My fun and friendly personality also makes me a great team player and open to new ideas. When I’m not busy working, I catch up on the latest animations to get aspiration and draw new ideas. 
                    I strive to create animations that aspires people and leaves people thinking.</p>
-                  <h3>Demo Reel</h3>
-                  <div class="demo-video">
-                    <a class="demo-link" href="../work/index.php"><img src="../img/demo-reel-placeholder.jpg" alt="Dorothy Photo" /></a>
-                  </div>
                 </div>
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
