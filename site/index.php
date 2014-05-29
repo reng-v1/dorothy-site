@@ -85,10 +85,7 @@
                     <a class="demo-link" href="../work/index.php"><img src="../img/demo-reel-placeholder.jpg" alt="Dorothy Photo" /></a>
                   </div>
                   <h3>Biography</h3>
-                  <p>I am filled with energy and passion to expand my creative horizons, and eager to tackle any challenges that come my way.
-                   Using the latest software and skills learned from the Art Institute of Atlanta, I create both simple and complex 3D animations. 
-                   My fun and friendly personality also makes me a great team player and open to new ideas. When I’m not busy working, I catch up on the latest animations to get aspiration and draw new ideas. 
-                   I strive to create animations that aspires people and leaves people thinking.</p>
+                  <p>I am filled with energy and passion to expand my creative horizons, and eager to tackle any challenges that come my way. Using the latest software and skills learned from the Art Institute of Atlanta, I create both simple and complex 3D animations. My fun and friendly personality also makes me a great team player and open to new ideas. When I’m not busy working, I catch up on the latest animated films to find inspiration and create new concept drawings. I strive to create animations that inspire people and leave people thinking.</p>
                 </div>
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
