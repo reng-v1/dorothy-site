@@ -68,7 +68,7 @@
                   <li><a href="../resume/index.php">Resume</a></li>
                   <li class="active"><a href="../contact/index.php">Contact</a></li>
                 </ul>
-                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
               </div><!--end sidebar-->
             </div>
 
@@ -114,11 +114,15 @@
                       <textarea class="long-textbox" name="comment" rows="7" cols="30"></textarea>
                     <input class="button" type="submit" value="Sumbit"/>
                   </form>
+                  <div class="bio-img">
+                    <img class="bio-photo" src="../img/bio-pic.jpg" alt="Dorothy Photo" />
+                    <img class="leaf hide-for-small-only" src="../img/bio-leaf.png" alt="Leaf Photo" />
+                  </div>
                 </div>
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
-                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
                 </div>
               </div>
             </div>

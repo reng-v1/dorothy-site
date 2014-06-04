@@ -161,12 +161,17 @@ body {
 }
 .copyright {
   width:300px;
+  margin: 0 auto;
+  margin-bottom:30px;
   font-size:0.8em;
   text-align: center;
   position:absolute;
   bottom: 0;
   line-height: 1em;
   color:#d95d41;
+  a {
+    color:#d95d41;
+  }
 }
 
 

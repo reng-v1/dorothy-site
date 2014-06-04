@@ -1,8 +1,17 @@
 /*Contact Styles*/
 
 #contact {
-	
-	
+	.bio-img {
+		text-align:center;
+		margin:0 auto;
+		margin-bottom:45px;
+		position:relative;
+		.leaf {
+			position:absolute;
+			top:205px;
+			left:-5px;
+		}
+	}
 	.button{
 		background:$nav-bkg-color;
 	}

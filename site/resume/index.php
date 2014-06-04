@@ -65,7 +65,7 @@
                   <li class="active"><a href="../resume/index.php">Resume</a></li>
                   <li><a href="../contact/index.php">Contact</a></li>
                 </ul>
-                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
               </div><!--end sidebar-->
             </div>
 
@@ -151,10 +151,10 @@
                         <h2 class="skill-section">Skills</h2>
                       </div>
                       <div class="columns small-12">
-                        <div class="skill-bg"><div class="skill1"><p>Microsoft Word</p></div></div>
-                        <div class="skill-bg"><div class="skill2"><p>Maya</p></div></div>
-                        <div class="skill-bg"><div class="skill3"><p>Adobe Photoshop</p></div></div>
-                        <div class="skill-bg"><div class="skill4"><p>Adobe AfterEffects</p></div></div>
+                        <div class="skill-bg"><div class="skill1"><p>Maya</p></div></div>
+                        <div class="skill-bg"><div class="skill2"><p>Adobe Photoshop</p></div></div>
+                        <div class="skill-bg"><div class="skill3"><p>Adobe AfterEffects</p></div></div>
+                        <div class="skill-bg"><div class="skill4"><p>Microsoft Word</p></div></div>
                         <div class="skill-bg"><div class="skill5"><p>Adobe Flash</p></div></div>
                         <div class="skill-bg"><div class="skill6"><p>Adobe Illustrator</p></div></div>
                         <div class="skill-bg"><div class="skill7"><p>Adobe Premiere</p></div></div>
@@ -168,7 +168,7 @@
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
-                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
                 </div>
               </div>
             </div>

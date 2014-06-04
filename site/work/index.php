@@ -65,7 +65,7 @@
                   <li><a href="../resume/index.php">Resume</a></li>
                   <li><a href="../contact/index.php">Contact</a></li>
                 </ul>
-                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
               </div><!--end sidebar-->
             </div>
 
@@ -84,7 +84,7 @@
                 <div class="contact-info show-for-small-only">
                   <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
-                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by Davin Gerber | developed by Ryan Eng</p>
+                  <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
                 </div>
               </div>
             </div>
