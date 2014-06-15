@@ -154,12 +154,11 @@
                         <div class="skill-bg"><div class="skill1"><p>Maya</p></div></div>
                         <div class="skill-bg"><div class="skill2"><p>Adobe Photoshop</p></div></div>
                         <div class="skill-bg"><div class="skill3"><p>Adobe AfterEffects</p></div></div>
-                        <div class="skill-bg"><div class="skill4"><p>Microsoft Word</p></div></div>
+                        <div class="skill-bg"><div class="skill4"><p>Microsoft Office</p></div></div>
                         <div class="skill-bg"><div class="skill5"><p>Adobe Flash</p></div></div>
                         <div class="skill-bg"><div class="skill6"><p>Adobe Illustrator</p></div></div>
                         <div class="skill-bg"><div class="skill7"><p>Adobe Premiere</p></div></div>
                         <div class="skill-bg"><div class="skill8"><p>ZBrush</p></div></div>
-                        <div class="skill-bg"><div class="skill9"><p>Microsoft Excel</p></div></div>
                       </div>
                     </div>
                   </div>
