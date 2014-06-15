@@ -44,7 +44,7 @@
             <li><a href="../contact/index.php">Contact</a></li>
           </ul>
           <div class="nav-contact-info">
-            <p>843-816-2757</p>
+            <p>770-687-1658</p>
             <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
           </div>
         </aside>
@@ -72,7 +72,7 @@
             <div class="large-8 columns full-height">
               <div class="main-content full-height">
                 <div class="contact-info show-for-medium-up">
-                  <p>843-816-2757</p>
+                  <p>770-687-1658</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                 </div>
                 <!--<div class="bio-img">
@@ -88,7 +88,7 @@
                   <p>I am filled with energy and passion to expand my creative horizons, and eager to tackle any challenges that come my way. Using the latest software and skills learned from the Art Institute of Atlanta, I create both simple and complex 3D animations. My fun and friendly personality also makes me a great team player and open to new ideas. When I’m not busy working, I catch up on the latest animated films to find inspiration and create new concept drawings. I strive to create animations that inspire people and leave people thinking.</p>
                 </div>
                 <div class="contact-info show-for-small-only">
-                  <p>843-816-2757</p>
+                  <p>770-687-1658</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                   <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
                 </div>
