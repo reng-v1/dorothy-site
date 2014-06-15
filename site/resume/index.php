@@ -98,7 +98,7 @@
                         <div class="work-info">
                           <p>2014-present</p>
                           <p>Server</p>
-                          <p>Stars and Strikes</p>
+                          <p>Main Event</p>
                         </div>
                       </div>
                       <div class="columns small-6 large-7">
