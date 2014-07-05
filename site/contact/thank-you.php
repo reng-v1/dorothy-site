@@ -44,7 +44,6 @@
             <li><a href="../contact/index.php">Contact</a></li>
           </ul>
           <div class="nav-contact-info">
-            <p>843-816-2757</p>
             <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
           </div>
         </aside>
@@ -72,14 +71,12 @@
             <div class="large-8 columns full-height">
               <div class="main-content full-height">
                 <div class="contact-info show-for-medium-up">
-                  <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                 </div>
                 <div class="content">
                   <h2>Thank you for contacting me!<br />I will be in-touch.</h2>
                 </div>
                 <div class="contact-info show-for-small-only">
-                  <p>843-816-2757</p>
                   <p><a href="mailto:dorothy_rotondo@yahoo.com">dorothy_rotondo@yahoo.com</a></p>
                   <p class="copyright">&copy; copyright <?php echo date("Y"); ?> | designed by <a href="http://www.davingerber.com/">Davin Gerber</a> | developed by <a href="http://ryanengkl.com">Ryan Eng</a></p>
                 </div>
