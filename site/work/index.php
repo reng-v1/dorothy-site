@@ -78,7 +78,7 @@
                 <div class="content">
                   <h3>Demo Reel</h3>
                   <div class="flex-video">
-                    <iframe width="420" height="315" src="http://www.youtube.com/embed/3RKnmTJT4mY" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="420" height="315" src="http://www.youtube.com/embed/Dgng7VTELwg" frameborder="0" frameborder="0" allowfullscreen></iframe>
                   </div>
                 </div>
                 <div class="contact-info show-for-small-only">
